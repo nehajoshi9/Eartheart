@@ -1,5 +1,5 @@
 ## Try it out!
-https://nehajoshi9.github.io/technica_godot_repo/
+https://nehajoshi9.github.io/Eartheart/
 
 ## Devpost:
 https://devpost.com/software/eartheart
